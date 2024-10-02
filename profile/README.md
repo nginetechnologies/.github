@@ -1,4 +1,4 @@
-![Sceneri_Logo_Full](https://github.com/user-attachments/assets/83225480-7e49-4f97-8056-5429d071c093)
+![Sceneri_Banner](https://github.com/user-attachments/assets/2f9cc95e-b40d-4c29-86e0-7b9b3cdff32a)
 
 `ngine technologies` contains our repositories associated with the [Sceneri](https://www.sceneri.com/)
 
