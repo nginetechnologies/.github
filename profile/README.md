@@ -6,7 +6,7 @@
 
 tl;dr: Sceneri is the next-generation creation engine, enabling real-time, collaborative creation and play across every device, shaping the future of games and experiences.
 
-<h3>After installing or launching, you can additional resources here:</h3>
+<h3>After installing or launching, you can find additional resources here:</h3>
 
 *  [Sceneri Repositories](https://github.com/orgs/nginetechnologies/repositories)
 *  [Documentation](https://docs.sceneri.com)
