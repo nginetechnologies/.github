@@ -14,6 +14,6 @@ tl;dr: Sceneri is the next-generation creation engine, enabling real-time, colla
 
 We are industry insiders, former Crytek & CRYENGINE developers and management, with decades of experience in building games and games engines for real-time gaming and enterprise usage. We believe the time for disruption in the games platform and game engine space is now, and that is why we are building Sceneri.
 
-<h2>How-to using the repositories</h2>
+<h2>How to use the repositories</h2>
 
 [![Environemnt Assets](https://img.youtube.com/vi/ajwsggrwdjY/0.jpg)](https://www.youtube.com/watch?v=ajwsggrwdjY)
