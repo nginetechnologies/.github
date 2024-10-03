@@ -17,3 +17,5 @@ We are industry insiders, former Crytek & CRYENGINE developers and management, w
 <h2>How to use the repositories</h2>
 
 [![Environemnt Assets](https://img.youtube.com/vi/ajwsggrwdjY/0.jpg)](https://www.youtube.com/watch?v=ajwsggrwdjY)
+
+[![Character Assets](https://img.youtube.com/vi/6JDm3WeVY6w/0.jpg)](https://www.youtube.com/watch?v=6JDm3WeVY6w)
