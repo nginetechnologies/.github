@@ -1,4 +1,5 @@
 ![Sceneri_Banner](https://github.com/user-attachments/assets/2f9cc95e-b40d-4c29-86e0-7b9b3cdff32a)
+[![Discord](https://img.shields.io/discord/842853727606013963?&logo=discord&logoColor=white&label=Discord&link=https%3A%2F%2Fdiscord.gg%2Fsceneriapp)](https://discord.gg/sceneriapp)
 
 <h2>Create, play, and share games, anywhere, together, in real-time.</h2>
 
